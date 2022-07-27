@@ -27,6 +27,3 @@ get_header();
 	?>
     
 
-</body>
-</html> 
-
